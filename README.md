@@ -1,10 +1,9 @@
 ## Hi there 👋, My Name is Douglas 😎
 ### Data Scientist 	👨‍💻, Backend 🖥️
 
-💻 My Profile **Dou2020** is a ✨ _special_ ✨ repository:
-
 > [!NOTE]
-> **About me**
+> 💻 My Profile **Dou2020** is a ✨ _special_ ✨ repository:
+> **About me** 
 
 - 🔵🔵🔵🔵 **About me** 🔵🔵🔵🔵
     - 👨‍🎓 I'm student, study in 🏫 university USAC/CUNOC, 🗓️ 4th year.

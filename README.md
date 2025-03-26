@@ -26,17 +26,23 @@
       - DML
       - Produce
       - view
-      - Users
+      - Users  
+    - CSS(Framework)
+      - Boostrap
+      - tailwinds
     - Infraestructure
-    - Proyect of Inpact
+      - AWS
+      - Cloudflare
 - 👯 I’m looking to collaborate on help other people.
 - 🤔 I’m looking for help with Proyect of impact
 - 💬 Ask me about hobbies:
-  - play of piano
-  - listen podcast
-  - programing
-  - learn about news IT
-  - 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - Play of piano
+  - Listen podcast
+  - Programing
+  - Learn about news IT
+  - Ride motorcycle
+- 📫 How to reach me:
+    -  Better and Better 
+    -  More proyect of impact
+- 😄 Pronouns:
+    - Dou2020
